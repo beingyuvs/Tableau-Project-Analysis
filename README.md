@@ -13,7 +13,23 @@ Welcome to my Tableau project where data meets insight! This project dives deep 
 - **Interactive Tableau Dashboard**: Explore data visualizations that break down **profit trends**, **regional insights**, and **product performance**.
 - **Data Files**: Access the original dataset used for this analysis to see the raw numbers behind the visuals.
 - **Key Takeaways**: Practical insights that could help optimize business strategies, from focusing on profitable products to considering seasonal discount strategies.
+---
 
+## 📸 Dashboard Preview  
+![Dashboard Preview](https://github.com/beingyuvs/Tableau-Project-Analysis/blob/8c04bdc9443ca06b33164be01e3a816a7036b908/Tableau%20Analysis.jpeg)
+
+---
+
+## 📊 Download the Interactive Tableau Dashboard  
+🔗 [Is_Least_Profitable_Always_Unprofitable.twbx](https://github.com/beingyuvs/Tableau-Project-Analysis/blob/8c04bdc9443ca06b33164be01e3a816a7036b908/Project1.twb)  
+> Open with Tableau Desktop or Tableau Public to explore the full dashboard interactively.
+
+---
+
+## 📁 Access the Excel Dataset  
+🔗 [GlobalSuperStore Dataset.xlsx](https://github.com/beingyuvs/Tableau-Project-Analysis/blob/8c04bdc9443ca06b33164be01e3a816a7036b908/Superstore.xlsx)  
+> This is the original dataset used to build the dashboard, prepped and cleaned for analysis.
+---
 ## 💡 **Key Insights**:
 - **Telephones**: The big winner—**$350K** in profit. 📞
 - **Envelopes**: A significant underperformer—**$50K** in profit. 📉
